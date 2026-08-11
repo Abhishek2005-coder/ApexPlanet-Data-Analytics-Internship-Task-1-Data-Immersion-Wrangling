@@ -1,0 +1,13 @@
+Column,Meaning,Data_Type,Business_Relevance
+Order_ID,Original order identifier,String,Order-level reference
+Order_Date,Date on which the order was recorded,Date,Time-based sales analysis
+Customer_ID,Identifier of the customer,String,Customer-level analysis
+Customer_Name,Customer name,String,Customer identification
+Age,Customer age,Numeric,Age-based segmentation
+Gender,Customer gender,Categorical,Demographic analysis
+City,Customer city,Categorical,Geographic analysis
+Product,Purchased product,Categorical,Product-level analysis
+Category,Product category,Categorical,Category-level analysis
+Quantity,Number of units purchased,Numeric,Sales volume analysis
+Unit_Price,Price per unit,Numeric,Pricing and revenue analysis
+Total_Sales,Recorded total sales amount,Numeric,Revenue analysis
