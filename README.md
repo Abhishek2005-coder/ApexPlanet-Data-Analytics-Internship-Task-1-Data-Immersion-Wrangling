@@ -1,0 +1,2 @@
+# ApexPlanet-Data-Analytics-Internship-Task-1-Data-Immersion-Wrangling
+A complete data wrangling project using Python and Pandas to explore, assess, clean, transform, and prepare a sales dataset for analysis. The project includes data-quality assessment, missing-value handling, duplicate analysis, outlier detection, feature engineering, data validation, a data dictionary, and an analysis-ready cleaned dataset.
